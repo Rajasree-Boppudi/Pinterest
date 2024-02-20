@@ -1,0 +1,74 @@
+/*{
+    background-color: black;
+}*/ 
+.navbars{
+    position: fixed;
+    background-color: whitesmoke;
+}
+.xyz{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+}
+/* .col-12{
+    background-color: rgb(255,253,146);
+} */
+.two{
+    color: rgb(195,25,82);
+    text-align: center;
+    padding-left:20%;
+    margin-top: 20%;
+}
+/* .col-lg-5{
+    flex-direction: reverse;
+} */
+.three{
+    color: rgb(0,107,108);
+    text-align: center;
+    padding-right: 10%;
+    margin-top: 40%;   
+}
+.four{
+    text-align: center;
+    color: rgb(195,47,0);
+    padding-left: 65%;
+    margin-top: -40%;
+}
+.login{
+    display: flex;
+    flex-direction: row;
+    border-radius: 25%;
+} 
+p{
+    line-height: 0.5px;
+}
+.form{
+    /* display: flex;
+    justify-content: center; */
+    margin-left: 23%;
+    margin-top: 15px;
+}
+.log{
+    border-color: rgb(219, 217, 217);
+    border-radius: 25px;
+    margin: 4px;
+    width: 18vw;
+}
+
+.five{
+
+        width:58% ;
+        height: 300%;
+        font-size: 70px;
+        font-weight: 600;
+        display: flex;
+        justify-content: center;
+        margin-top: 20%;
+        color:whitesmoke; 
+}
+form{
+        padding:20px;
+}
+#register{
+        background-image: url(./WhatsApp\ Image\ 2024-02-17\ at\ 12.33.19.jpeg);
+}
